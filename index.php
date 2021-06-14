@@ -174,7 +174,7 @@ $sysList = [
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>KMS激活Win系统 by 233333Tech</title>
-    <link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/res/bootstrap.min.css">
 
     <style>
         body{
@@ -258,8 +258,8 @@ $sysList = [
             </div>
         </div>
     </div>
-    <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
-    <script src="//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="/res/jquery.min.js"></script>
+    <script src="/res/bootstrap.min.js"></script>
 </body>
 
 <div id="cc-myssl-id" style="position: fixed;right: 0;bottom: 0;width: 65px;height: 65px;z-index: 99;">
